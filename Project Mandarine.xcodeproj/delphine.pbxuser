@@ -1,0 +1,214 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 2B43FF1A0DF165ED00D9EE38 /* Project Mandarine */;
+		activeTarget = 8D1107260486CEB800E47090 /* Project Mandarine */;
+		breakpointsGroup = 2B43FFD60DF1675B00D9EE38 /* XCBreakpointsBucket */;
+		codeSenseManager = 2B43FFBD0DF1660D00D9EE38 /* Code sense */;
+		executables = (
+			2B43FF1A0DF165ED00D9EE38 /* Project Mandarine */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					578,
+					20,
+					48.1626,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 233925146;
+			PBXWorkspaceStateSaveDate = 233925146;
+		};
+		perUserProjectItems = {
+			2B4309020DF16D2E00D9EE38 /* PBXTextBookmark */ = 2B4309020DF16D2E00D9EE38 /* PBXTextBookmark */;
+			2B4309030DF16D2E00D9EE38 /* PBXBookmark */ = 2B4309030DF16D2E00D9EE38 /* PBXBookmark */;
+			2B4309040DF16D2E00D9EE38 /* PBXTextBookmark */ = 2B4309040DF16D2E00D9EE38 /* PBXTextBookmark */;
+			2B43090A0DF1745900D9EE38 /* PBXTextBookmark */ = 2B43090A0DF1745900D9EE38 /* PBXTextBookmark */;
+			2B43FFAB0DF1660C00D9EE38 /* PBXTextBookmark */ = 2B43FFAB0DF1660C00D9EE38 /* PBXTextBookmark */;
+			2B43FFAE0DF1660C00D9EE38 /* PBXTextBookmark */ = 2B43FFAE0DF1660C00D9EE38 /* PBXTextBookmark */;
+			2B43FFAF0DF1660C00D9EE38 /* PBXTextBookmark */ = 2B43FFAF0DF1660C00D9EE38 /* PBXTextBookmark */;
+			2B43FFB00DF1660C00D9EE38 /* PBXTextBookmark */ = 2B43FFB00DF1660C00D9EE38 /* PBXTextBookmark */;
+			2B43FFE50DF167E600D9EE38 /* PBXTextBookmark */ = 2B43FFE50DF167E600D9EE38 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2B43FFBC0DF1660D00D9EE38 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2B4309020DF16D2E00D9EE38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BF533360DF0CB7F00A5781B /* PMAboutController.h */;
+		name = "PMAboutController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	2B4309030DF16D2E00D9EE38 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+	};
+	2B4309040DF16D2E00D9EE38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BF533360DF0CB7F00A5781B /* PMAboutController.h */;
+		name = "PMAboutController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	2B43090A0DF1745900D9EE38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		name = "Info.plist: 26";
+		rLen = 0;
+		rLoc = 843;
+		rType = 0;
+		vrLen = 757;
+		vrLoc = 218;
+	};
+	2B43FF1A0DF165ED00D9EE38 /* Project Mandarine */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Project Mandarine";
+		sourceDirectories = (
+		);
+	};
+	2B43FFAB0DF1660C00D9EE38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BF5288D0DF09E3700A5781B /* PMController.m */;
+		name = "PMController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 192;
+		vrLoc = 0;
+	};
+	2B43FFAE0DF1660C00D9EE38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BF5288C0DF09E3700A5781B /* PMController.h */;
+		name = "PMController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 216;
+		vrLoc = 0;
+	};
+	2B43FFAF0DF1660C00D9EE38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BF5288D0DF09E3700A5781B /* PMController.m */;
+		name = "PMController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 192;
+		vrLoc = 0;
+	};
+	2B43FFB00DF1660C00D9EE38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BF533360DF0CB7F00A5781B /* PMAboutController.h */;
+		name = "PMAboutController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 321;
+		vrLoc = 0;
+	};
+	2B43FFBC0DF1660D00D9EE38 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 1;
+		scmConfiguration = {
+			SubversionToolPath = /usr/local/bin/svn;
+		};
+		scmType = scm.subversion;
+	};
+	2B43FFBD0DF1660D00D9EE38 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2B43FFD60DF1675B00D9EE38 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+		);
+	};
+	2B43FFE50DF167E600D9EE38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BF5288C0DF09E3700A5781B /* PMController.h */;
+		name = "PMController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 216;
+		vrLoc = 0;
+	};
+	2BF5288C0DF09E3700A5781B /* PMController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {777, 688}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {777, 145}}";
+		};
+	};
+	2BF5288D0DF09E3700A5781B /* PMController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {853, 848}}";
+			sepNavSelRange = "{272, 0}";
+			sepNavVisRect = "{{0, 0}, {776, 486}}";
+		};
+	};
+	2BF533360DF0CB7F00A5781B /* PMAboutController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {777, 320}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {777, 145}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Project Mandarine */ = {
+		activeExec = 0;
+		executables = (
+			2B43FF1A0DF165ED00D9EE38 /* Project Mandarine */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {797, 528}}";
+			sepNavSelRange = "{843, 0}";
+			sepNavVisRect = "{{0, 81}, {777, 415}}";
+		};
+	};
+}

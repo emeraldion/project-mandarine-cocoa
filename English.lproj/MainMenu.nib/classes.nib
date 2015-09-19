@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {about = id; emeraldionLodgeWebsite = id; mandarineWebsite = id; }; 
+            CLASS = PMController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {webView = WebView; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}
