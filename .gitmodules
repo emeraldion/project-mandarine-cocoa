@@ -1,4 +1,3 @@
 [submodule "project-mandarine"]
-    path = mandarine_files/
-    url = git@github.com:emeraldion/project-mandarine.git
-
+	path = mandarine_files
+	url = git@github.com:emeraldion/project-mandarine.git
