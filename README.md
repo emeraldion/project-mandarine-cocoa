@@ -18,6 +18,10 @@ git clone --recursive git@github.com:emeraldion/project-mandarine-cocoa.git
 
 Clone the repo and open the `Project Mandarine.xcodeproj` file in Xcode. Run and build.
 
+# Binaries
+
+A pre-built Project Mandarine binary is available for download on the [Emeraldion Lodge website](http://www.emeraldion.it/software/macosx/project_mandarine.html).
+
 # License
 
 Code is released under the [MIT](http://www.opensource.org/licenses/MIT) license.
